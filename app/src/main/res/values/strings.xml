@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <!-- Main Activity-->
+    <string name="main_menu_name">Main Menu</string>
+    <string name="btn_play_game">New Game</string>
+    <string name="btn_resume_game">Resume Game</string>
+    <string name="btn_about">About</string>
+    <!-- About Activity-->
+    <string name="about_menu_name">About</string>
+    <string name="tv_about">Made by Hristijan Bocevski</string>
+    <!-- Result Activity-->
+    <string name="result_menu_name">Result</string>
+    <string name="won">You won!</string>
+    <string name="lost">You lost!</string>
+    <string name="tv_result_word">The word was:</string>
+    <string name="tv_result_guesses_left">Number of attempts left:</string>
+    <string name="btn_main_menu">Back to main menu</string>
+    <!-- Hangman Activity-->
+    <string name="tv_hangman_guesses_left">guesses left</string>
+    <string name="btn_guess">Gissa!</string>
+    <!-- Toast messages -->
+    <string name="toast_letter_already_guessed">you have already guessed that letter</string>
+    <string name="toast_to_many_latters_entered">you can only enter one letter</string>
+    <!-- Toolbar menu -->
+    <string name="toolbar_play_game">new game</string>
+    <string name="toolbar_about_game">about game</string>
+    <string name="toolbar_save_game">save game</string>
+</resources>

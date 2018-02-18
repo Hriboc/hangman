@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <!-- Main Activity-->
+    <string name="main_menu_name">Huvudmeny</string>
+    <string name="btn_play_game">Spela spelet</string>
+    <string name="btn_about">Om</string>
+    <!-- About Activity-->
+    <string name="about_menu_name">Om</string>
+    <string name="tv_about">Uthängd av Hristijan Bocevski</string>
+    <!-- Result Activity-->
+    <string name="result_menu_name">Resultat</string>
+    <string name="won">Du vann!</string>
+    <string name="lost">Du förlorade!</string>
+    <string name="tv_result_word">Ordet var:</string>
+    <string name="tv_result_guesses_left">Antal försök kvar:</string>
+    <string name="btn_main_menu">Tillbaka till huvudmenyn</string>
+    <!-- Hangman Activity-->
+    <string name="tv_hangman_guesses_left">försök kvar</string>
+    <string name="btn_guess">Gissa!</string>
+    <!-- Toast messages -->
+    <string name="toast_letter_already_guessed">du har redan gissat på bokstaven</string>
+    <string name="toast_to_many_latters_entered">du kan bara ange en bokstav</string>
+    <!-- Toolbar menu -->
+    <string name="toolbar_play_game">nytt spel</string>
+    <string name="toolbar_about_game">om spelet</string>
+    <string name="toolbar_save_game">spara spel</string>
+</resources>
